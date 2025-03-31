@@ -1,0 +1,10 @@
+[package]
+name = "mensonrbx/datasystem"
+description = "Simple DataStore wrapper"
+authors = ["mensonrbx"]
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+cachesystem = "mensonrbx/cachesystem@0.1.2"
